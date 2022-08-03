@@ -1,0 +1,76 @@
+.links {
+  color: aliceblue;
+  display: inline;
+  text-decoration: none !important;
+  margin: 50px;
+}
+
+.links:link {
+  text-decoration: none;
+  color: aliceblue;
+  display: inline;
+}
+
+.links:visited {
+  text-decoration: none;
+  color: aliceblue;
+  display: inline;
+}
+
+.links:hover {
+  text-decoration: none;
+  color: aliceblue;
+  display: inline;
+}
+
+.links:active {
+  text-decoration: none;
+  color: aliceblue;
+  display: inline;
+}
+
+body {
+  background-image: url("/resources/images/background.jpg");
+  background-size: cover;
+  text-align: center;
+  font-family: monospace;
+}
+
+
+h2 {
+  color: aliceblue;
+  text-align: center;
+  padding-top: 25px;
+  align-items: center;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 100px;
+}
+
+footer {
+  margin-top: 300px;
+  color: aliceblue;
+  text-decoration: none;
+  border: 10px solid aliceblue;
+  border-radius: 50px;
+}
+
+#logo {
+  padding-left: 20px;
+  margin-top: 75px;
+  height: 200px;
+}
+
+#vesika {
+  margin-top: 20px;
+  border-radius: 100%;
+}
+
+#medianav {
+  margin: 200px;
+  justify-content: center;
+  align-items: center;
+}
